@@ -4,7 +4,7 @@
   "assignees": ["rarkins", "viceice"],
   "semanticCommitScope": "deps",
   "automergeType": "pr",
-  "renovateFork": true,
+  "includeForks": true,
   "prCreation": "immediate",
   "dockerfile": {
     "semanticCommitType": "build"
