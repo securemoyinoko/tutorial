@@ -1,3 +1,3 @@
-FROM php:8.0-fpm
+FROM php:8.2-fpm@sha256:aff78fb7a6c6ca85504c305b7a42bdd16b76ebd376f302be5b34dbab6cad1889
 
 ENV DOCKERIZE_VERSION 0.6.1
